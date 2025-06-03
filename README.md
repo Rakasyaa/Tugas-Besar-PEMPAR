@@ -61,3 +61,6 @@ Total ratings_count untuk metacritic > 80: 2,345,678
 
 ## 👨‍💻 Kontributor
 - Rakasya Yoga Surya Pratama
+- R. Rafi Yudi Pramana
+- Rakasya yoga Surya Pratama
+- Muhammad Ridho Fahru Rozy
